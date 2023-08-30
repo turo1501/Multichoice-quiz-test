@@ -1,0 +1,14 @@
+C:\Users\Ross\Desktop\W.TEST\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\Ross\Desktop\W.TEST\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\Ross\Desktop\W.TEST\DataAccessTier\bin\Debug\DataTransferObject.dll
+C:\Users\Ross\Desktop\W.TEST\DataAccessTier\bin\Debug\DataTransferObject.pdb
+C:\Users\Ross\Desktop\W.TEST\DataAccessTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\W.TEST\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\Ross\Desktop\W.TEST\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataAccessTier\bin\Debug\DataTransferObject.dll
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataAccessTier\bin\Debug\DataTransferObject.pdb
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataAccessTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataAccessTier\obj\Debug\DataAccessTier.pdb
