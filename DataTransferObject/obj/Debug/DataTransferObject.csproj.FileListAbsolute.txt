@@ -1,0 +1,10 @@
+C:\Users\Ross\Desktop\W.TEST\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\Ross\Desktop\W.TEST\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\Ross\Desktop\W.TEST\DataTransferObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\W.TEST\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\Ross\Desktop\W.TEST\DataTransferObject\obj\Debug\DataTransferObject.pdb
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataTransferObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataTransferObject\obj\Debug\DataTransferObject.pdb
